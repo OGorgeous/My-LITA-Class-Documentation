@@ -59,19 +59,3 @@ DROP Table1
 ```SQL
 TRUNCATE TABLE1
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
