@@ -9,6 +9,6 @@ This Data analysis project amis to generate insight into some data sets which co
 The Datas used here were all provided by our Instructor during the class.
 
 ### Tools Used
-Microsoft Excel for Data Cleaning, Analysis and Visualization
-SQL - Structured Query Language for quering of Data 
-Github for Portfolio Creation
+- Microsoft Excel for Data Cleaning, Analysis and Visualization
+- SQL - Structured Query Language for quering of Data 
+- Github for Portfolio Creation
