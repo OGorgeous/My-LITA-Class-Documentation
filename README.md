@@ -1,9 +1,14 @@
 # My-LITA-Class-Documentation
 
-### Project Title: Sales and Reveune analysis
+### Project Title: Data Analysis
 
 ### Project overview
-This Data analysis project amis to generate insight into sales and reveune performance of each states between 2014-2015. By analysing the various parameters and put together a compelling story about each states sales performance and their reveune rate, from the data gathered from each state. 
+This Data analysis project amis to generate insight into some data sets which consists of, sales record, reveune rates and Employee records. By analysing the various parameters in the data sets to gather insights to make readable, understandable and knowledgeable decisions and tell a compelling stories around our data from our discovered insights to unveil the trends.
 
 ### Data Sources
-The Data used here was provided by our Instructor during the class.
+The Datas used here were all provided by our Instructor during the class.
+
+### Tools Used
+Microsoft Excel for Data Cleaning, Analysis and Visualization
+SQL - Structured Query Language for quering of Data 
+Github for Portfolio Creation
