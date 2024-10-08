@@ -41,3 +41,37 @@ These involved the exploration of the Data to answer some questions about the Da
 
 ### Data Analysis
 ---
+This is where some bsic lines of coode, queries or functions are included. E.g
+
+```Excel
+=sum(a1:k1)
+```
+```Excel
+=averageif(C5:C15,"True",D5:D15)
+```
+ ```SQL
+  SELECT * FROM TABLE1
+    WHERE CONDITION = True
+ ```
+```SQL
+DROP Table1
+```
+```SQL
+TRUNCATE TABLE1
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
