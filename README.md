@@ -69,3 +69,4 @@ TRUNCATE TABLE1
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/87f37000-3a33-44a1-b0f6-3d6c15d9cb45)
 
+💯
