@@ -27,7 +27,12 @@ In the phase of data cleaning and preparation, we performed the following;
 4. Use of Sort and Filter to arrange the data sets
 5. Data cleaning and Formatting
 
-
+### Exploratory Data Analysis 
+These involved the exploration of the Data to answer some questions about the Data, such as:
+- The overall trends
+- The positive trends
+- The negative trends
+- Some more sepecific trends
 
 
 
