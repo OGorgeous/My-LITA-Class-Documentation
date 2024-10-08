@@ -2,6 +2,20 @@
 
 ### Project Title: Data Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
 ### Project overview
 ---
 This Data analysis project amis to generate insight into some data sets which consists of, sales record, reveune rates and Employee records. By analysing the various parameters in the data sets to gather insights to make readable, understandable and knowledgeable decisions and tell a compelling stories around our data from our discovered insights to unveil the trends.
