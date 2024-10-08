@@ -62,6 +62,8 @@ TRUNCATE TABLE1
 
 ### Data Visualization
 ![Screenshot (4)](https://github.com/user-attachments/assets/148f7cf4-b991-49ad-9578-10e370fdc937)
+
+
 ![Screenshot (6)](https://github.com/user-attachments/assets/995e6c15-887b-4594-853c-e8916dbe569e)
 
 
