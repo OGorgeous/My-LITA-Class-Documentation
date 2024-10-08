@@ -18,3 +18,24 @@ The Datas used here were all provided by our Instructor during the class.
     2. For Data Import and Export
     3. For Creating Tables  
 - GitHub for Portfolio Creation
+
+### Data Cleaning and Preparations 
+In the phase of data cleaning and preparation, we performed the following;
+1. Data loading and Inspection
+2. Handling missing varibles
+3. Use of text functions to correct some typografical errors
+4. Use of Sort and Filter to arrange the data sets
+5. Data cleaning and Formatting
+
+
+
+
+
+
+
+
+
+
+
+
+
