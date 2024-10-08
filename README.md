@@ -67,4 +67,5 @@ TRUNCATE TABLE1
 ![Screenshot (6)](https://github.com/user-attachments/assets/995e6c15-887b-4594-853c-e8916dbe569e)
 
 
+![Screenshot (7)](https://github.com/user-attachments/assets/87f37000-3a33-44a1-b0f6-3d6c15d9cb45)
 
