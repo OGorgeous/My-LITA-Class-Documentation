@@ -55,7 +55,7 @@ These involved the exploration of the Data to answer some questions about the Da
 
 ### Data Analysis
 ---
-This is where some basic lines of coode, queries or functions are included. E.g
+This is where some basic lines of code, queries or functions are included. E.g
 
 ```Excel
 =sum(a1:k1)
